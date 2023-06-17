@@ -1,2 +1,1 @@
-SpringProject
-Spring/Springboot 공부
+Spring/SpringBoot 공부
